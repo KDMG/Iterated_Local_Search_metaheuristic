@@ -22,3 +22,5 @@ Per rendere lo script funzionante è necessario inserire nella stessa cartella d
 - log : al suo interno deve essere inserita una rete di petri in formato ".pnml" ed un log ad essa associato in formato ".xes"
 - output : verranno inseriti i dati stampati a fine esecuzione
 - ig : dove vengono salvati gli ig prodotti dall'esecuzione
+
+Lo script nel reporitory è quello utilizzato nella fase di sperimetazione. L'esecuzione viene ripetuta tre volte per ogni traccia analizzata, ogni volta con un seed diverso.
